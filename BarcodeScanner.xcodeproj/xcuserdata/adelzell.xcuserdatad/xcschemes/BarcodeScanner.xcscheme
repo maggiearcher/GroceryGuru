@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F65F47D31E88604E009FD241"
-               BuildableName = "BarcodeScanner.app"
+               BuildableName = "GroceryGuru.app"
                BlueprintName = "BarcodeScanner"
                ReferencedContainer = "container:BarcodeScanner.xcodeproj">
             </BuildableReference>
@@ -53,7 +53,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F65F47D31E88604E009FD241"
-            BuildableName = "BarcodeScanner.app"
+            BuildableName = "GroceryGuru.app"
             BlueprintName = "BarcodeScanner"
             ReferencedContainer = "container:BarcodeScanner.xcodeproj">
          </BuildableReference>
@@ -76,11 +76,18 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F65F47D31E88604E009FD241"
-            BuildableName = "BarcodeScanner.app"
+            BuildableName = "GroceryGuru.app"
             BlueprintName = "BarcodeScanner"
             ReferencedContainer = "container:BarcodeScanner.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
+      <EnvironmentVariables>
+         <EnvironmentVariable
+            key = "OS_ACTIVITY_MODE"
+            value = "disable"
+            isEnabled = "YES">
+         </EnvironmentVariable>
+      </EnvironmentVariables>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -95,7 +102,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "F65F47D31E88604E009FD241"
-            BuildableName = "BarcodeScanner.app"
+            BuildableName = "GroceryGuru.app"
             BlueprintName = "BarcodeScanner"
             ReferencedContainer = "container:BarcodeScanner.xcodeproj">
          </BuildableReference>
